@@ -5,7 +5,7 @@
 - Currently learning **LLMs, LangChain, and RAG**  
 - Building **AI-powered projects** like **animal mood detection & fitness AI**  
 - Freelancer in **React & Frontend Development**  
-- Founder of **SkyAnchor Logistics**  
+- intern of **SkyAnchor**  
 ## Tech Stack  
 **Frontend:** React.js, Next.js, Tailwind CSS  
 **Backend:** Node.js, Express.js  
